@@ -1,0 +1,15 @@
+flowchart TD
+    A[Intended Use / Problem Definition] --> B[Planning: Jira scope + milestones]
+    B --> C[SRS: Requirements + Acceptance Criteria]
+    C --> D[SDS: Architecture + Modules + Algorithms]
+    D --> E[Implementation: Branch -> PR -> Review]
+    E --> F[Verification: Unit/Integration/Golden Tests]
+    F --> G[CI: Build + Test + Lint/Format Checks]
+    G --> H[Validation: Acceptance Tests vs Intended Use]
+    H --> I[Release: Versioning + Changelog + Artifacts]
+    I --> J[Deployment: Binary or Docker Image]
+    J --> K[Maintenance: Known Issues + Bugfix PRs]
+    C --> T[Traceability Matrix]
+    D --> T
+    F --> T
+    H --> T

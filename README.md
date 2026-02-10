@@ -19,7 +19,19 @@ This course introduces how modern AI tools and techniques can support the softwa
 - **Teaching Assistant:** To be announced
 - **Office Hours:** TBD
 
+## Course Format
+
+This course combines lectures with on-site practice sessions to provide hands-on experience with AI-assisted software development tools and techniques.
+
 ## Syllabus
 
 **Note:** Students are required to read the [syllabus](./Syllabus.md) carefully. The course schedule may be adjusted based on learning progress.
 
+## Projects
+
+This course includes a sequence of programming projects that emphasize end-to-end, AI-assisted engineering workflows (requirements/specs → implementation → testing → CI → packaging). See [Projects](./Project.md) for full details.
+
+- **Project 0: Two Sum (Bootcamp)** 
+- **Project A: JSON Plate-to-Nested Converter** 
+- **Project B: CSV Mini Database & Query Engine** 
+- **Project C: VCF Variant Filter Engine** 
