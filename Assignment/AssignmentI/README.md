@@ -31,7 +31,7 @@ Create **two** new repositories on GitHub:
       - (Optional) `.gitignore`
 
 2. **Course repository**: `11402_CS351`
-    - Use this repo to store CI002 assignment files and documentation
+    - Use this repo to store CS351 assignment files and documentation
     - Initialize with:
       - `README.md`
       - (Optional) `.gitignore`
