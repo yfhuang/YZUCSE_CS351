@@ -37,3 +37,11 @@ This course includes a sequence of programming projects that emphasize end-to-en
 - **Project A: JSON Plate-to-Nested Converter** 
 - **Project B: CSV Mini Database & Query Engine** 
 - **Project C: VCF Variant Filter Engine** 
+
+## Lectures
+
+All lecture notes are available in the [Lectures](./Lectures/) directory. This includes slides and materials covering the software development lifecycle, tools, testing practices, and AI-assisted workflows.
+
+- [Course Introduction](./Lectures/01_Course_introduction.md)
+- [SDLC Overview](./Lectures/02_SDLC.md)
+- [SDLC Implementation](./Lectures/03_SDLC_Implementation.md)
