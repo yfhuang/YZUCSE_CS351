@@ -17,7 +17,9 @@ This course introduces how modern AI tools and techniques can support the softwa
     - Thursday 13:00–16:00 (YZ Building I, R1008)
 - **Contact:** [Yu-Feng Huang](mailto:yfhuang@saturn.yzu.edu.tw)
 - **Teaching Assistant:** To be announced
-- **Office Hours:** TBD
+- **Office Hours:** 
+    - Monday: 13:00 ~ 15:00
+    - Wednesday: 14:00 ~ 16:00
 
 ## Course Format
 
@@ -25,7 +27,7 @@ This course combines lectures with on-site practice sessions to provide hands-on
 
 ## Syllabus
 
-**Note:** Students are required to read the [syllabus](./Syllabus.md) carefully. The course schedule may be adjusted based on learning progress.
+**Note:** Students are required to read the [Syllabus](./Syllabus.md) carefully. The course schedule may be adjusted based on learning progress.
 
 ## Projects
 
