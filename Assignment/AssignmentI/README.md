@@ -89,6 +89,8 @@ https://forms.office.com/r/FveZgnJydw?origin=lprLink
   https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
 - GitHub getting started:  
   https://docs.github.com/en/get-started
+- GitHub Pages getting started:
+  https://docs.github.com/en/pages/getting-started-with-github-pages
 
 ---
 
