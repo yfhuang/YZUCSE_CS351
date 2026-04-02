@@ -23,8 +23,6 @@ By completing this workflow, students should be able to:
 * clean up development branches after completion
 * synchronize local and remote repositories correctly
 
----
-
 ## 2. Standard Feature Development Procedure
 
 ### Step 1. Create or confirm the Jira Story
@@ -36,8 +34,6 @@ Students should:
 * confirm the feature belongs to the assigned Epic
 * create a new Story if needed, or use the Story assigned by the instructor
 * make sure the Story clearly represents one meaningful unit of work
-
----
 
 ### Step 2. Complete the required information in the Jira Story
 
@@ -72,8 +68,6 @@ Example:
 * `feature/PROJ-123-user-login`
 * `feature/CS351-25-add-search-filter`
 
----
-
 ### Step 4. Check the feature branch in GitHub
 
 After creating the branch from Jira, students should verify that the branch has been created successfully in GitHub.
@@ -83,8 +77,6 @@ Students should confirm:
 * the branch exists in the remote repository
 * the branch name is correct
 * the branch is associated with the intended Jira Story
-
----
 
 ### Step 5. Update the local repository before development
 
@@ -98,8 +90,6 @@ In VS Code, students should:
 
 This step helps avoid unnecessary conflicts later.
 
----
-
 ### Step 6. Create or check out the local feature branch in VS Code
 
 Once the remote feature branch exists, students should create or check out the corresponding local feature branch.
@@ -109,8 +99,6 @@ Students should:
 * base the local branch on the latest `main`
 * connect the local feature branch to the remote feature branch if needed
 * verify they are working on the correct branch before coding
-
----
 
 ### Step 7. Develop and test the feature
 
@@ -124,8 +112,6 @@ During development, students are expected to:
 * test the feature before committing or opening a pull request
 
 If the feature is large, students are encouraged to develop it in small logical steps rather than making one large unstructured change.
-
----
 
 ### Step 8. Commit code with Jira ID and meaningful message
 
@@ -149,7 +135,12 @@ Poor examples:
 * `fix bug`
 * `final version`
 
----
+Recommended references for writing commit messages:
+
+* [Conventional Commits](https://www.conventionalcommits.org/)
+* [The Art of Writing Meaningful Git Commit Messages](https://medium.com/@iambonitheuri/the-art-of-writing-meaningful-git-commit-messages-a56887a4cb49)
+* [Git commit message notes](https://hackmd.io/@howhow/git_commit)
+* [How to Write a Git Commit Message](https://chris.beams.io/git-commit)
 
 ### Step 9. Push the feature branch to GitHub
 
@@ -160,8 +151,6 @@ Students should verify:
 * all intended commits are pushed successfully
 * the correct remote branch is updated
 * GitHub reflects the latest development state before the pull request is created
-
----
 
 ### Step 10. Create the pull request
 
@@ -177,8 +166,6 @@ The pull request should include:
 * a short description of what was implemented
 * a reference to the Jira Story
 
----
-
 ### Step 11. Check the pull request in GitHub and assign reviewers
 
 Once the PR is created, students must review the PR details carefully.
@@ -193,8 +180,6 @@ Students should check:
 
 Students should not assume the PR is complete until these details are verified.
 
----
-
 ### Step 12. Revise code according to review comments
 
 If reviewers request changes, students must respond professionally and revise the feature branch accordingly.
@@ -208,8 +193,6 @@ Students are expected to:
 
 Code review is part of the learning process and should be treated as a formal development requirement, not an optional step.
 
----
-
 ### Step 13. Merge the feature branch into the main branch
 
 The feature branch may only be merged after:
@@ -221,15 +204,11 @@ The feature branch may only be merged after:
 
 Students should use the approved merge method required by the course or repository settings.
 
----
-
 ### Step 14. Delete the remote feature branch
 
 After the PR has been merged, students should delete the remote feature branch in GitHub unless the repository policy states otherwise.
 
 This helps keep the repository clean and reduces confusion about active branches.
-
----
 
 ### Step 15. Delete the local feature branch
 
@@ -240,8 +219,6 @@ Before deleting the local branch, students must:
 * switch back to `main`
 * confirm the feature branch has already been merged
 
----
-
 ### Step 16. Synchronize the latest main branch to local
 
 Finally, students must pull the latest `main` branch from GitHub so that their local repository is fully updated.
@@ -251,8 +228,6 @@ This ensures that:
 * the merged feature is available locally
 * the local environment matches the remote repository
 * the student is ready for the next Story or feature task
-
----
 
 ## 3. Required Workflow Summary
 
@@ -308,8 +283,6 @@ Students are therefore expected to demonstrate:
 
 A correct workflow is part of software engineering practice and is considered an important learning outcome of the course.
 
----
-
 ## 6. Submission/Completion Evidence
 
 When requested by the instructor or TA, students may need to provide evidence that the workflow was completed correctly, such as:
@@ -321,8 +294,6 @@ When requested by the instructor or TA, students may need to provide evidence th
 * reviewer assignment
 * merge record
 * updated local repository status
-
----
 
 ## 7. Recommended Short Student Checklist
 
