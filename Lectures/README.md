@@ -9,8 +9,8 @@ Exploration of SDLC phases, methodologies, and best practices in modern software
 ## Lecture 3: Software Development Life Cycle Documentation and Traceability
 Documentation standards, traceability matrices, and requirements tracking throughout SDLC.
 
-## Lecture 4: AI Tools and Assistants in Development
-Overview of AI-assisted coding tools, code generation, and pair programming with AI.
+## Lecture 4: Feature Development Workflow Practice
+Hands-on workflow for Jira, GitHub, VS Code, pull requests, code review, and branch synchronization.
 
 ## Lecture 5: Testing and Quality Assurance with AI
 Automated testing, test generation, and AI-driven quality assurance techniques.

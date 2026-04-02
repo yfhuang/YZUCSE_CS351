@@ -45,3 +45,4 @@ All lecture notes are available in the [Lectures](./Lectures/) directory. This i
 - [Course Introduction](./Lectures/01_Course_introduction.md)
 - [SDLC Overview](./Lectures/02_SDLC.md)
 - [SDLC Implementation](./Lectures/03_SDLC_Implementation.md)
+- [Feature Development Workflow Practice](./Lectures/04_Practice.md)
