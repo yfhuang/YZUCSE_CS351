@@ -1,4 +1,4 @@
-# Jira + GitHub + VS Code Workflow Diagram
+# Lecture 5 -  Jira + GitHub + VS Code Workflow Diagram
 
 This diagram shows the standard **feature development workflow** for students using:
 - **Jira** for task tracking

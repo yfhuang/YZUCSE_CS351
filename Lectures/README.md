@@ -1,25 +1,16 @@
 # CS351/IN321: AI-assisted Software Development - Lectures
 
 ## Lecture 1: Course Introduction
-Introduction to the course, objectives, and overview of AI-assisted software development concepts.
+Introduces the course structure, prerequisites, teaching method, grading policy, and learning objectives, with emphasis on computational thinking, strategic thinking, and AI-assisted software development practice.
 
 ## Lecture 2: Software Development Life Cycle
-Exploration of SDLC phases, methodologies, and best practices in modern software development.
+Reviews the full SDLC from planning through maintenance, covering the major phases, common process models such as Waterfall, Agile, DevOps, and Spiral, and practical development best practices.
 
 ## Lecture 3: Software Development Life Cycle Documentation and Traceability
-Documentation standards, traceability matrices, and requirements tracking throughout SDLC.
+Explains how to structure an SDLC repository around deliverable artifacts such as intended use, planning, SRS, SDS, tests, CI, deployment, and known issues, while preserving traceability from requirements to design, tests, and releases.
 
 ## Lecture 4: Feature Development Workflow Practice
-Hands-on workflow for Jira, GitHub, VS Code, pull requests, code review, and branch synchronization.
+Defines the standard course workflow for feature delivery, including Jira story preparation, branch creation, local development, commit conventions, pull requests, review revision, merge, branch cleanup, and synchronization.
 
-## Lecture 5: Testing and Quality Assurance with AI
-Automated testing, test generation, and AI-driven quality assurance techniques.
-
-## Lecture 6: Code Review and Optimization
-Best practices for code review, performance optimization, and AI-assisted refactoring.
-
-## Lecture 7: Security and Ethical Considerations
-Security vulnerabilities, ethical implications, and responsible use of AI in software development.
-
-## Lecture 8: Project Management and Collaboration
-Team workflows, project planning, and leveraging AI for project coordination.
+## Lecture 5: Jira + GitHub + VS Code Workflow Diagram
+Provides the visual workflow diagram that accompanies Lecture 4, highlighting the end-to-end development flow across Jira, GitHub, and VS Code, including review loops and post-merge cleanup.

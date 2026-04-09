@@ -42,7 +42,8 @@ This course includes a sequence of programming projects that emphasize end-to-en
 
 All lecture notes are available in the [Lectures](./Lectures/) directory. This includes slides and materials covering the software development lifecycle, tools, testing practices, and AI-assisted workflows.
 
-- [Course Introduction](./Lectures/01_Course_introduction.md)
+- [Course Introduction](./Lectures/01_Course_introductio.md)
 - [SDLC Overview](./Lectures/02_SDLC.md)
-- [SDLC Implementation](./Lectures/03_SDLC_Implementation.md)
+- [SDLC Documentation and Traceability](./Lectures/03_SDLC_Implementation.md)
 - [Feature Development Workflow Practice](./Lectures/04_Practice.md)
+- [Jira + GitHub + VS Code Workflow Diagram](./Lectures/05_PracticeWorkflowDiagram.md)
