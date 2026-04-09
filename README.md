@@ -42,8 +42,11 @@ This course includes a sequence of programming projects that emphasize end-to-en
 
 All lecture notes are available in the [Lectures](./Lectures/) directory. This includes slides and materials covering the software development lifecycle, tools, testing practices, and AI-assisted workflows.
 
-- [Course Introduction](./Lectures/01_Course_introductio.md)
+- [Course Introduction](./Lectures/01_Course_Introduction.md)
 - [SDLC Overview](./Lectures/02_SDLC.md)
 - [SDLC Documentation and Traceability](./Lectures/03_SDLC_Implementation.md)
 - [Feature Development Workflow Practice](./Lectures/04_Practice.md)
 - [Jira + GitHub + VS Code Workflow Diagram](./Lectures/05_PracticeWorkflowDiagram.md)
+- [Project SOP: From Scratch to Running System](./Lectures/06_Project.md)
+- [Software Testing: Unit Testing with C++](./Lectures/07_Unit_Testing_Cpp.md)
+- [Standards Before Vibe Coding](./Lectures/08_Pre_Vibe_Coding_Standards.md)
