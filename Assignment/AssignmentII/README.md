@@ -7,6 +7,7 @@
 - Course:
 - Date:
 - Due Date: 2026/5/31 23:59:59 (Submit via YZU Portal and you own course github repository)
+- File name: ${studentid}_assignmentII.md; ${studentid}_assignmentII.pdf 
 
 # 1. Assignment Overview
 
